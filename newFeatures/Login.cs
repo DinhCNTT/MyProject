@@ -1,2 +1,1 @@
-// Login code
-// Fixed bug in login
+// Login feature code
